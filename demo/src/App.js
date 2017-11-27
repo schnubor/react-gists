@@ -39,18 +39,6 @@ class App extends Component {
             </div>
           </Container>
         </Section>
-
-        <footer className="footer">
-          <div className="container">
-            <div className="content has-text-centered">
-              <p>
-                <strong>react-gists</strong> by <a href="http://chko.org" target="_blank" rel="noopener noreferrer">Christian Korndoerfer</a>. The source code is licensed
-                <a href="http://opensource.org/licenses/mit-license.php" target="_blank" rel="noopener noreferrer">MIT</a>. Inspired by a <a href="https://gist.github.com/aVolpe/b364a8fcd10f1ba833d97e9ab278f42c" target="_blank" rel="noopener noreferrer">Gist</a>.
-              </p>
-            </div>
-          </div>
-        </footer>
-
       </div>
     )
   }

@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "author": "Christian Korndoerfer",
   "license": "MIT",
-  "keywords": ["react","github","gist"],
+  "keywords": [
+    "react",
+    "github",
+    "gist"
+  ],
   "homepage": "https://schnubor.github.io/react-gists/",
   "description": "Embed Github Gists into your React application. Compatible with React 16.",
   "main": "lib/index.js",
@@ -15,6 +19,12 @@
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
+    "eslint": "^4.12.0",
+    "eslint-config-react-app": "^2.0.1",
+    "eslint-plugin-flowtype": "^2.39.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.5.1",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
     "react-scripts": "1.0.17"

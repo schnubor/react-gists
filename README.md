@@ -1,8 +1,14 @@
-![gists](https://i.imgur.com/LYCGSHW.png)
-
 # react-gists
 
 Embed Github Gists into your React application. Compatible with React 16.
+
+![gists](https://i.imgur.com/LYCGSHW.png)
+
+## Installation
+
+```
+npm install --save react-gists
+```
 
 ## Usage
 
@@ -13,7 +19,7 @@ import Gist from 'react-gists'
 
 All files:
 ```js
-<Gist id="1234asdf" />
+<Gist id="1234asdf"/>
 ```
 
 Specific file:
