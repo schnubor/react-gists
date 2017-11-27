@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "author": "Christian Korndoerfer",
   "license": "MIT",
+  "keywords": ["react","github","gist"],
+  "homepage": "https://schnubor.github.io/react-gists/",
+  "description": "Embed Github Gists into your React application. Compatible with React 16.",
   "main": "lib/index.js",
   "devDependencies": {
     "babel": "^6.23.0",
