@@ -4,14 +4,19 @@ Embed Github Gists into your React application. Compatible with React 16.
 
 ## Usage
 
+Import:
+```js
+import Gist from 'react-gists'
+```
+
 All files:
 ```js
-    <Gist id="1234asdf" />
+<Gist id="1234asdf" />
 ```
 
 Specific file:
 ```js
-    <Gist id="1234asdf" file="example.js"/>
+<Gist id="1234asdf" file="example.js"/>
 ```
 
 ## Demo
