@@ -1,7 +1,8 @@
 {
   "name": "react-gists",
   "version": "0.1.0",
-  "private": true,
+  "author": "Christian Korndoerfer",
+  "license": "MIT",
   "main": "lib/index.js",
   "devDependencies": {
     "babel": "^6.23.0",
