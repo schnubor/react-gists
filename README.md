@@ -1,3 +1,5 @@
+![gists](https://i.imgur.com/LYCGSHW.png)
+
 # react-gists
 
 Embed Github Gists into your React application. Compatible with React 16.
