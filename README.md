@@ -1,4 +1,6 @@
 # react-gists
+[![Build Status](https://travis-ci.org/schnubor/react-gists.svg?branch=master)](https://travis-ci.org/schnubor/react-gists)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
 Embed Github Gists into your React application. Compatible with React 16.
 
